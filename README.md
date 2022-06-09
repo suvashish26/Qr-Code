@@ -1,2 +1,2 @@
 # Qr-Code
-A program to read data from a given qr code
+A python program to read data from a given qr code
